@@ -1,0 +1,2 @@
+# A_Hybrid_DenseNet-SVM_Approach_for_EEG-Based_Emotion_Recognition
+The study proposes a hybrid architecture for EEG-based emotion recognition, combining Differential Entropy, DenseNet-121, and SVM to maximize the classification margin. By mapping data onto a 9x9 grid to preserve cortical topology, the model achieved a 95.22% average accuracy with high stability on the SEED dataset, ensuring robust brain analysis.
